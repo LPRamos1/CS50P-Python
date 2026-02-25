@@ -1,2 +1,2 @@
-# CS50P-Python
+# CS50P - Introduction to Python
 CS50P course
